@@ -72,7 +72,8 @@
     "keyboard-key": "^1.0.2",
     "lodash": "^4.17.10",
     "prop-types": "^15.6.2",
-    "shallowequal": "^1.1.0"
+    "shallowequal": "^1.1.0",
+    "satisfied": "^1.1.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
@@ -147,7 +148,6 @@
     "react-test-renderer": "^16.4.2",
     "react-universal-component": "^2.9.0",
     "rimraf": "^2.6.2",
-    "satisfied": "^1.1.2",
     "semantic-ui-css": "^2.4.0",
     "simulant": "^0.2.2",
     "sinon": "^6.2.0",
