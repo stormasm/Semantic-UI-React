@@ -16,3 +16,4 @@ dll/
 node_modules/
 tmp/
 .yarnrc
+yarn.lock
